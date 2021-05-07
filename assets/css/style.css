@@ -12,7 +12,7 @@
 }
 
 
-.bags:hover, .shoes:hover, .watch:hover, .card:hover, .secondnav>li:hover {
+.bags:hover, .shoes:hover, .watch:hover, .card:hover, .secondnav>li:hover, .secondfooter:hover {
     text-decoration:underline;
 } 
 
